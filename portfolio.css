@@ -1,0 +1,240 @@
+*{
+    margin: 0px;
+    padding:0px;
+    background-attachment: scroll;
+}
+.mainhead{
+    height: 100px;
+    width: 1530px;
+    border: 1px solid black;
+    background-color:white;
+    background-color: black;
+}
+.mainhead h1{
+    margin-left: 200px;
+    margin-top: 5px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+#ach3{
+    margin-top: -30px;
+    margin-left: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+.flex{
+    display: flex;
+    margin-left: 800px;
+    font-size: 28px;
+    margin-top: 0px;
+    font-family:'Times New Roman', Times, serif;
+}
+.flex :hover{
+    color: rgb(240, 16, 16);
+    border-bottom: 2px solid black;
+}
+.flex div{
+    height: 35px;
+    width: 200px;
+    text-align: center;
+    color:white;
+   
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 30px;
+}
+.maindiv{
+    height: 700px;
+    width: 1530px;
+    margin-top: 1px;
+    position: relative;
+    background-color:lightblue;
+}
+.white{
+    height: 570px;
+    width: 1033px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 242px;
+    box-shadow: 0px 0px 1px 1px rgb(248, 245, 245);
+    display: flex;
+}
+.one{
+    height:570px;
+    width: 516px;
+}
+.second{
+    height:570px;
+    width: 516px;
+    background-color:white;
+}
+.image{
+ height: 453px;
+  width: 456px;
+  margin-top: 40px;
+  margin-left: 29px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px 0.3px black;
+}
+.button{
+    height: 30px;
+    margin-top: 60px;
+    border-radius: 20px;
+    width: 160px;
+    background-color:aqua;
+    font-size: 20px;
+    border: transparent;
+    font-family:'Times New Roman', Times, serif;
+}
+.about{
+    width: 1530px;
+    height: 700px;
+    display: flex;
+    background-color: lightcyan;
+}
+.aboutdiv1{
+    height:700px;
+    width: 775px;
+    background-color:white;
+    background-color: lightcyan;
+}
+.aboutdiv2{
+   height: 700px;
+   width: 750px;
+}
+.aboutdiv1 img{
+    height: 550px;
+    width: 600px;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 50%;
+}
+.aboutdiv2 h1{
+    margin-top:200px;
+    margin-left: 100px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.aboutdiv2 p{
+    margin-top:10px;
+    margin-left: 100px;
+    margin-right: 200px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.skil{
+    height: 730px;
+    width: 1540px;
+    background-color: antiquewhite;
+}
+.skil h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+    color: brown;
+}
+.skil div{
+    margin-top: 10px;
+    height: 500px;
+}
+.divlineone div img{
+    height: 150px;
+    width: 150px;
+}
+.imageone{
+    transform: scale(1);
+    transition: 1s;
+}
+.imagesone :hover{
+    transform: scale(0.9);
+    color: brown;
+}
+.contect{
+    height: 230px;
+    width: 1530px;
+    border: 1px solid black;
+    background-color: rgb(90, 250, 250);
+    position: relative;
+}
+.contect h1{
+text-align: center;
+ margin-top: 20px;
+ font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+}
+.contectpage{
+    height: 500px;
+    width: 1540px;
+}
+.box{
+    height: 505px;
+    width: 717px;
+    border: 1px solid black;
+    margin: auto;
+      margin-top: auto;
+    margin-top: -110px;
+    position: absolute;
+    margin-left: 400px;
+    background-color: white;
+    box-shadow: 0px 0px 3px 0px black;
+}
+.box input{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    width: 400px;
+    height: 50px;
+    border: transparent;
+    border: 0.5px solid black;
+}
+textarea{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    width: 400px;
+    height: 50px;
+    border: transparent;
+    border: 0.5px solid black;
+}
+.submit{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    width: 400px;
+    height: 50px;
+    border: transparent;
+    border: 0.5px solid black;
+    background-color:aqua;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mainbutton{
+    margin-top: -50px;
+    margin-left: 30px;
+    border-bottom: 2px solid black;
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    border: transparent;
+    border: 0.5px solid black;
+    background-color: white;
+    color:black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.footer{
+    height: 300px;
+    width: 1530px;
+    border: 1px solid black;
+    color: rgb(23, 224, 231);
+    background-color: black;
+    text-align: center;
+}
