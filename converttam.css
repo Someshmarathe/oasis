@@ -1,0 +1,40 @@
+.div1{
+    height: 490px;
+    width:600px;
+    border: 0px solid black;
+    margin: auto;
+    margin-top: 150px;
+    background-color: white;
+    box-shadow: 50px 50px 50px 10px #315B7E;
+    border-radius: 3px;
+}
+input{
+    margin-top:10px;
+    margin-left:px;
+    height: 40px;
+    width: 299px;
+    color:black;
+}
+h1{
+    text-align: center;
+    color: rgb(2, 5, 26);
+    margin-top: 10px;
+}
+button{
+    margin-top:0px;
+    margin-left: 100px;
+    height: 40px;
+    width: 250px;
+    background-color: #315B7E;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 170px;
+}
+#clc{
+    height: 20x;
+    width: 250px;
+}
+body{
+    background-color:#315B7E;
+}
