@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.orangeback{
+    height: 360px;
+    width: 1530px;
+    background-color: rgb(251, 93, 76);
+}
+.mainbox{
+    height: 550px;
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    margin-top: -250px;
+    background-color:  rgb(3, 34, 70);
+}
+#inpu{
+    height: 110px;
+    width: 496px;
+    margin-left:0.6px;
+    text-align: right;
+    font-size: 50px;
+    color: rgb(255, 252, 252);
+    background-color:  rgb(1, 34, 72);
+    border: transparent;
+}
+.list1 button{
+    height: 40px;
+    width: 60px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 25px;
+    color: white;
+    background-color: transparent;
+    border: transparent;
+        
+}
